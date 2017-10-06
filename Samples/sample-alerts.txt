@@ -1,0 +1,35 @@
+Holiday Closing Messages:
+
+Closed Sunday, January 1, New Year’s Day.
+Closed Monday, January 16, Martin Luther King, Jr. Day.
+Closed Monday, February 20, Presidents Day.
+Closed Sunday, April 16, Easter.
+Closed Monday, May 29, Memorial Day.
+Closed Tuesday, July 4, Independence Day.
+Closed Monday, September 4, Labor Day.
+Closed Friday, November 11, Staff Development.
+Closed at 5PM, Wednesday, November 23. Closed all day, Thursday, November 24, Thanksgiving.
+Closed at 3PM, Saturday, December 24. Closed all day, Sunday, December 25, Christmas.
+
+Weather Closing Messages:
+
+All library locations closed due to inclement weather.
+Due to inclement weather, all library locations will open today at 10AM.
+Due to inclement weather, all library locations will close today at 2PM.
+
+Message for Individual Branch Location Page:
+
+Due to inclement weather, the library will open today at 10AM.
+
+Outage Messages:
+
+We will be upgrading our check-in/check-out service from 9PM Wednesday, January 18, to 9AM Thursday, January 19. The catalog, My Account, Materials Requests and Reserve a Study Room will be unavailable during that time.
+
+The catalog is currently unavailable. <a href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
+
+BiblioCommons:
+
+Douglas County Libraries is no longer purchasing music on CD. You can access digital music on our website using <a href="http://douglascountylibraries.freegalmusic.com/homes/index" target="_blank">Freegal</a> and <a href="https://www.hoopladigital.com/home" target="_blank">Hoopla</a>.
+
+Douglas County Libraries is no longer purchasing music on CD. You can access digital music on our website using and Freegal and Hoopla.
+
