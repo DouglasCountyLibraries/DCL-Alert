@@ -1,1 +1,1 @@
-The catalog is currently unavailable. <a class="white underline" href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
+The catalog is currently unavailable. <a class="white text-underline" href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
