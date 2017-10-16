@@ -25,7 +25,9 @@ Outage Messages:
 
 We will be upgrading our check-in/check-out service from 9PM Wednesday, January 18, to 9AM Thursday, January 19. The catalog, My Account, Materials Requests and Reserve a Study Room will be unavailable during that time.
 
-The catalog is currently unavailable. <a href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
+The catalog is experiencing intermittent downtime. If unavailable, <a class="white text-underline" href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">please use the classic catalog.</a>
+
+The catalog is currently unavailable. <a class="white text-underline" href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
 
 BiblioCommons:
 
