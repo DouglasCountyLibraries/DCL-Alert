@@ -1,1 +1,1 @@
-We are experiencing intermittent errors with our catalog including the inability to log in. <a class="white text-underline" href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
+We are experiencing intermittent errors and slowness with our catalog. We are working to resolve the problem.
