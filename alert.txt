@@ -1,1 +1,1 @@
-Our Highlands Ranch location will be <a class="white text-underline" href="../renovations/">closed for renovations</a> December 19, 2018-March 31, 2019.
+<div style="padding-bottom:4px;border-bottom: 3px solid rgba(255,255,255,.5)">Closed at 3PM, Monday, December 24. Closed all day, Tuesday, December 25, Christmas.</div><div style="font-size:.9em;padding-top:3px">Our Highlands Ranch location will be <a class="white text-underline" href="../renovations/">closed for renovations</a> December 19, 2018-March 31, 2019.</div>
