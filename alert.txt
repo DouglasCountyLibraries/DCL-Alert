@@ -1,1 +1,1 @@
-<div style="font-size:.9em;padding-top:3px">Our Highlands Ranch location is <a class="white text-underline" href="https://www.dcl.org/renovations/">closed for renovations</a> until April 2019.</div>
+<div style="font-size:.9em;">Our Highlands Ranch location is <a class="white text-underline" href="https://www.dcl.org/renovations/">closed for renovations</a> until April 2019.</div>
