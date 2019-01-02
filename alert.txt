@@ -1,1 +1,1 @@
-<div style="padding-bottom:4px;border-bottom: 3px solid rgba(255,255,255,.5)">Closed at 3PM, Monday, December 31. Closed all day, Tuesday, January 1, New Year's Day.</div><div style="font-size:.9em;padding-top:3px">Our Highlands Ranch location is <a class="white text-underline" href="https://www.dcl.org/renovations/">closed for renovations</a> until April 2019.</div>
+<div style="font-size:.9em;padding-top:3px">Our Highlands Ranch location is <a class="white text-underline" href="https://www.dcl.org/renovations/">closed for renovations</a> until April 2019.</div>
