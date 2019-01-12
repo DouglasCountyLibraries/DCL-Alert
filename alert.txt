@@ -1,1 +1,2 @@
+<divv style="border-bottom:1px solid #fff;">Due to inclement weather, the Louviers Branch is closed and all other library locations will open today at 10AM.</div>
 <div style="font-size:.9em;">Our Highlands Ranch location is <a class="white text-underline" href="https://www.dcl.org/renovations/">offering limited services</a> during renovations until April 2019. Your holds may be delayed due to these renovations.</div>
