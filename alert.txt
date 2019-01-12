@@ -1,2 +1,1 @@
-<div style="border-bottom:1px solid #fff;">Our Louviers location is closed today due to inclement weather.</div>
 <div style="font-size:.9em;">Our Highlands Ranch location is <a class="white text-underline" href="https://www.dcl.org/renovations/">offering limited services</a> during renovations until April 2019. Your holds may be delayed due to these renovations.</div>
