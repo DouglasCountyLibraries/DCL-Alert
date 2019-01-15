@@ -1,1 +1,1 @@
-<div style="margin-bottom:3px;padding-bottom:2px;border-bottom:2px solid rgba(255,255,255,.5)">Closed Monday, January 21, Martin Luther King Jr. Day.</div>
+Closed Monday, January 21, Martin Luther King Jr. Day.
