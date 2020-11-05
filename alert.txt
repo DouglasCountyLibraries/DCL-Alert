@@ -1,2 +1,2 @@
 <div id="perm-alert" class="row">All Douglas County Libraries locations are open with modified hours, <a href="https://www.dcl.org/safety-notice/#borrowing">borrowing</a>, <a class="white text-underline" href="https://www.dcl.org/safety-notice/#services">services</a>, and <a href="https://www.dcl.org/safety-notice/">safety protocols</a>.</div>
-  <div id="secondary-alert" class="row">Update your DCL Spaces account for 2021! <a href="https://www.dcl.org/reserve-a-space/">Room reservations</a> open at 9AM on Wednesday, November 4.</div>
+  <div id="secondary-alert" class="row">Update your DCL Spaces account for 2021. <a href="https://www.dcl.org/reserve-a-space/">Room reservations</a> are now open!</div>
