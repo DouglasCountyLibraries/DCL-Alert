@@ -1,13 +1,12 @@
 Holiday Closing Messages:
 
-Closed Sunday, January 1, New Year’s Day.
+Closed at 3PM, Thursday, December 31. Closed all day, Friday, January 1, New Year's Day.
 Closed Monday, January 16, Martin Luther King Jr. Day.
 Closed Monday, February 20, Presidents Day.
 Closed Sunday, April 16, Easter.
 Closed Monday, May 29, Memorial Day.
 Closed Tuesday, July 4, Independence Day.
 Closed Monday, September 4, Labor Day.
-All DCL locations and book drops closed Friday, September 13, for staff development.
 Closed at 5PM, Wednesday, November 22. Closed all day, Thursday, November 23, Thanksgiving.
 Closed at 3PM, Saturday, December 24. Closed all day, Sunday, December 25, Christmas.
 
@@ -23,13 +22,9 @@ Our Louviers location is closed today due to inclement weather.
 Due to inclement weather, our Louviers location is closed and all other library locations will open today at 10AM.
 Wireless internet access is currently unavailable at our Roxborough location. The estimated time to resolve the issue is by 6PM tonight.
 
-Message for Individual Branch Location Page:
+Message with More/Less functionality:
 
-Due to inclement weather, the library will open today at 10AM.
-
-Message with More/Less:
-
-<div><!--exposed content start-->Libraries and book returns will be closed Friday, August 24. Please plan accordingly. The catalog<!--exposed content end--><a class="white read-more-show hide-it fade-in-text" href="#" id="2"> ...read more</a> <span class="read-more-content"><!--hidden content start--> will be unavailable Sunday, August 12 from 8-9AM as we perform system maintenance.<!--hidden content end--><a class="white read-more-hide hide-it fade-in-text" href="#" more-id="2"> &times;</a></span></div><script type="text/javascript">
+<div><!--exposed content start-->Libraries and book returns will be closed Friday, August 24. Please plan accordingly. The catalog<!--exposed content end--><a class="read-more-show hide-it fade-in-text" href="#" id="2"> ...read more</a> <span class="read-more-content"><!--hidden content start--> will be unavailable Sunday, August 12 from 8-9AM as we perform system maintenance.<!--hidden content end--><a class="read-more-hide hide-it fade-in-text" href="#" more-id="2"> &times;</a></span></div><script type="text/javascript">
 $('.read-more-content').addClass('hide-it')
 $('.read-more-show, .read-more-hide').removeClass('hide-it')
 $('.read-more-show').on('click', function(e) {
@@ -45,22 +40,20 @@ $('.read-more-hide').on('click', function(e) {
 });
 </script>
 
-Outage Messages:
+Outage, BiblioCommons & Other Messages:
 
-We will be performing system maintenance on the catalog November 19, from 3-7 AM. Please use the <a class=”white text-underline” href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">classic catalog</a> during this time.
+We will be performing system maintenance on the catalog November 19, from 3-7 AM. Please use the <a href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">classic catalog</a> during this time.
 
 We will be upgrading our check-in/check-out service from 9PM Wednesday, January 18, to 9AM Thursday, January 19. The catalog, My Account, Materials Requests and Reserve a Study Room will be unavailable during that time.
 
 We will be upgrading our catalog systems on Wednesday, October 25, from 7:30-8:30AM. Holds and renewals will not be available during this time.
 
-The catalog is currently unavailable. <a class="white text-underline" href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
-
-BiblioCommons:
+The catalog is currently unavailable. <a href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
 
 Douglas County Libraries is no longer purchasing music on CD. You can access digital music on our website using <a href="http://douglascountylibraries.freegalmusic.com/homes/index" target="_blank">Freegal</a> and <a href="https://www.hoopladigital.com/home" target="_blank">Hoopla</a>.
 
-Douglas County Libraries is no longer purchasing music on CD. You can access digital music on our website using and Freegal and Hoopla.
+Update your DCL Spaces account for 2020! <a href="https://www.dcl.org/reserve-a-space/">Room reservations</a> open at 9AM on Wednesday, November 6.
 
-Other:
+All DCL locations and book drops closed Friday, September 13, for staff development.
 
-Update your DCL Spaces account for 2020! <a class="white text-underline" href="https://www.dcl.org/reserve-a-space/">Room reservations</a> open at 9AM on Wednesday, November 6.
+
