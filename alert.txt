@@ -1,1 +1,1 @@
-Today is Colorado Gives Day! <a href="https://www.coloradogives.org/DouglasCountyLibrariesFoundation/overview">Please donate</a>.
+Today is Colorado Gives Day! <a href="https://www.coloradogives.org/DouglasCountyLibrariesFoundation/overview" target="_blank">Please donate</a>.
