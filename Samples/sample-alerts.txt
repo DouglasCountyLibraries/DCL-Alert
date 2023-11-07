@@ -5,26 +5,36 @@ Closed Monday, January 16, Martin Luther King Jr. Day.
 Closed Monday, February 20, Presidents Day.
 Closed Sunday, April 16, Easter.
 Closed Monday, May 29, Memorial Day.
+Closed Monday, June 19, Juneteenth.
 Closed Tuesday, July 4, Independence Day.
 Closed Monday, September 4, Labor Day.
-Closed at 5PM, Wednesday, November 22. Closed all day, Thursday, November 23, Thanksgiving.
+All DCL locations and book drops closed Friday, September 13, for staff development.
+Closed at 3PM, Wednesday, November 22. Closed all day, Thursday, November 23, Thanksgiving.
 Closed at 3PM, Saturday, December 24. Closed all day, Sunday, December 25, Christmas.
 
-Weather Closing Messages:
+Closing Messages:
 
 All library locations closed due to inclement weather.
 Due to inclement weather, all library locations will open today at 10AM.
 Due to icy and snow-packed roads, all library locations will open today at 10AM.
 Due to inclement weather, all library locations will close today at 2PM.
 Due to expected severe blizzard conditions, all library locations will be closed Wednesday, March 13.
-Due to continued blizzard conditions, all library locations will be closed Thursday, March 14. Some catalog functions may be unavailable including access to My Account.
+Due to continued blizzard conditions, all library locations will be closed Thursday, March 14.
+Due to inclement weather, all library locations will be closed Monday, March 15.
+Some catalog functions may be unavailable including access to My Account.
 Our Louviers location is closed today due to inclement weather.
 Due to inclement weather, our Louviers location is closed and all other library locations will open today at 10AM.
 Wireless internet access is currently unavailable at our Roxborough location. The estimated time to resolve the issue is by 6PM tonight.
+Our Castle Rock location is temporarily closed due to a power outage. 
+Our Castle Rock location will be closed for emergency repairs Saturday, February 26.
+Our Castle Rock location is temporarily closed and phones are unavailable due to an internet service interruption.
+Our Castle Rock location is open with no public internet access and limited services. District-wide phone service is currently unavailable.
+Our Parker location will be closed from 8AM-12PM, Sunday, March 27, for a special event.
+All locations closed Friday, September 30, for staff development.
 
-Message with More/Less functionality:
+Message with More/Less:
 
-<div><!--exposed content start-->Libraries and book returns will be closed Friday, August 24. Please plan accordingly. The catalog<!--exposed content end--><a class="read-more-show hide-it fade-in-text" href="#" id="2"> ...read more</a> <span class="read-more-content"><!--hidden content start--> will be unavailable Sunday, August 12 from 8-9AM as we perform system maintenance.<!--hidden content end--><a class="read-more-hide hide-it fade-in-text" href="#" more-id="2"> &times;</a></span></div><script type="text/javascript">
+<div><!--exposed content start-->Libraries and book returns will be closed Friday, August 24. Please plan accordingly. The catalog<!--exposed content end--><a class="white read-more-show hide-it fade-in-text" href="#" id="2"> ...read more</a> <span class="read-more-content"><!--hidden content start--> will be unavailable Sunday, August 12 from 8-9AM as we perform system maintenance.<!--hidden content end--><a class="white read-more-hide hide-it fade-in-text" href="#" more-id="2"> &times;</a></span></div><script type="text/javascript">
 $('.read-more-content').addClass('hide-it')
 $('.read-more-show, .read-more-hide').removeClass('hide-it')
 $('.read-more-show').on('click', function(e) {
@@ -40,18 +50,41 @@ $('.read-more-hide').on('click', function(e) {
 });
 </script>
 
-Outage, BiblioCommons & Other Messages:
+Outage Messages:
 
-We will be performing system maintenance on the catalog November 19, from 3-7 AM. Please use the <a href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">classic catalog</a> during this time.
+We will be performing system maintenance on the catalog November 19, from 3-7 AM. Please use the <a class=”white text-underline” href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">classic catalog</a> during this time.
 
 We will be upgrading our check-in/check-out service from 9PM Wednesday, January 18, to 9AM Thursday, January 19. The catalog, My Account, Materials Requests and Reserve a Study Room will be unavailable during that time.
 
-We will be upgrading our catalog systems on Wednesday, October 25, from 7:30-8:30AM. Holds and renewals will not be available during this time.
+We will be upgrading our catalog systems on Sunday, April 10, from 6-9PM. Accounts, holds and renewals will not be available during this time.
 
-The catalog is currently unavailable. <a href="http://hip.douglascountylibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
+The catalog is currently unavailable. <a class="white text-underline" href=" https://hip.dclibraries.org/ipac20/ipac.jsp?profile=" target="_blank">Please use the classic catalog.</a>
+
+The catalog may be slow or unavailable at this time. We are working to resolve the issue and apologize for the inconvenience.
+
+Some services may be slow or unavailable at this time. We are working to resolve the issue.
+
+The catalog and other services may be unavailable at this time. We are working to resolve the issue.
+
+Account login may be unavailable at this time. We are working to resolve the issue.
+
+Internet and telephone access is currently unavailable at our Highlands Ranch location.
+
+OverDrive titles may not be available for checkout in the catalog. Please use the OverDrive website or the Libby app.
+
+Our Call Center phone lines are currently down. <a class="white text-underline" href="https://help.dcl.org/hc/en-us">Online assistance</a> is available.
+
+We will be upgrading our network on Sunday, May 8, from 6-9PM. The catalog, account login, holds and renewals will not be available during this time.
+
+Other:
+
+All Douglas County Libraries locations are open with modified hours, <a class="white text-underline" href="https://www.dcl.org/safety-notice/#borrowing">borrowing</a>, <a class="white text-underline" href="https://www.dcl.org/safety-notice/#services">services</a>, and <a class="white text-underline" href="https://www.dcl.org/safety-notice/">safety protocols</a>.
 
 Douglas County Libraries is no longer purchasing music on CD. You can access digital music on our website using <a href="http://douglascountylibraries.freegalmusic.com/homes/index" target="_blank">Freegal</a> and <a href="https://www.hoopladigital.com/home" target="_blank">Hoopla</a>.
 
-Update your DCL Spaces account for 2020! <a href="https://www.dcl.org/reserve-a-space/">Room reservations</a> open at 9AM on Wednesday, November 6.
 
-All DCL locations and book drops closed Friday, September 13, for staff development.
+
+
+
+
+
